@@ -19,5 +19,9 @@ List of Chinese AI models
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
 | Coze | 01.02.24 | [BiteDance](https://www.bytedance.com/) | Coze is a next-generation AI Bot development platform. Regardless of your programming experience, Coze enables you to effortlessly create various chatbots and deploy them across different social platforms and messaging apps like Discord, Telegram, LINE & Slack! | CN EN | [Coze.com](https://www.coze.com/)<br>[Coze.cn](https://www.coze.cn/)<br>[News](https://t.me/chinese_ai_news/1860)|
 
+## Leaderboards
+| Leaderboard  | Release | Developer     | Description                      | Lang | Links |
+| :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
+| CompassRank | | [OpenCompass](https://opencompass.org.cn/home) | It is a platform focused on evaluation of AGI, include Large Language Model and Multi-modality Model. | CN EN | [HuggingFace](https://huggingface.co/opencompass)<br>[GitHub](https://github.com/open-compass/opencompass)<br>[News](https://t.me/chinese_ai_news/1886)|
 
 You can find Chinese AI news on ["Китайский Искусcтвенный Интеллект | 中国人工智能"](https://t.me/chinese_ai_news).
