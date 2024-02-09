@@ -3,6 +3,7 @@ List of Chinese AI models
 ## LLMs
 | LLM Name  | Release | Developer     | Description                      | Lang | Links |
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
+| Qwen1.5 |06.02.24 |[Alibaba Cloud](https://eu.alibabacloud.com/en)   | Qwen1.5 is the improved version of Qwen, the large language model series|| [Homepage](https://tongyi.aliyun.com/)<br>[HuggingFace](https://huggingface.co/collections/Qwen/qwen15-65c0a2f577b1ecb76d786524) <br> [GitHub](https://github.com/QwenLM/Qwen1.5) |
 | Tiangong 2.0 MoE |06.02.24 |[Kunlun Wanwei](https://home.tiangong.cn/)   | It adopts the industry's top MoE expert hybrid model architecture and has stronger ability to handle complex tasks. Supports ultra-long context windows of up to 100K. *Probably some specific access is required for non China users.*|CN| [Homepage](https://home.tiangong.cn/)<br>[News](https://t.me/chinese_ai_news/1868)|
 | deepseek-moe, -coder, -llm, etc|01.12.23 |[Deepseek](https://www.deepseek.com/)     | It has been trained from scratch on a vast dataset of 2 trillion tokens in both English and Chinese. |RU CN EN| [HuggingFace](https://huggingface.co/deepseek-ai)<br>[GitHub](https://github.com/deepseek-ai)<br>[arXiv](https://arxiv.org/pdf/2401.14196.pdf)<br>[Chat With](https://chat.deepseek.com/)|
 | iFlytekSpark-13B-base, -chat, -Lora, -Charater| 30.01.24 | [iFLYTEK](https://www.iflytek.com/en/)| According to the tests by iFlytek, it is 20%+ ahead of other open source models of the same size in many aspects. | | [Gitee](https://gitee.com/iflytekopensource/iFlytekSpark-13B) <br> [News](https://t.me/chinese_ai_news/1822)|
@@ -11,6 +12,7 @@ List of Chinese AI models
 ## Multimodal Models
 | LLM Name  | Release | Developer     | Description                      | Lang | Links |
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
+| Qwen-VL-Max |06.02.24 |[Alibaba Cloud](https://eu.alibabacloud.com/en)  | This WebUI is based on Qwen-VL-Max, the upgraded version of Qwen-VL |CN| [Homepage](https://tongyi.aliyun.com/)<br>[HuggingFace](https://huggingface.co/spaces/Qwen/Qwen-VL-Max) <br> [GitHub](https://github.com/QwenLM/Qwen-VL#qwen-vl-plus)|
 | Tiangong 2.0 MoE |06.02.24 |[Kunlun Wanwei](https://home.tiangong.cn/)   | Supports multi-modal applications such as graphic and text dialogues, and text and text graphics, and supports ultra-long context windows of up to 100K. *Probably some specific access is required for non China users.*|CN| [Homepage](https://home.tiangong.cn/)<br>[News](https://t.me/chinese_ai_news/1868)|
 | MiniCPM-V (i.e., OmniLMM-3B)| 01.02.24 | [OpenBMB](https://www.openbmb.cn/home) | It is an efficient version with promising performance for deployment. The model is built based on MiniCPM-2B and SigLip-400M, connected by a perceiver resampler. | CN EN | [HuggingFace](https://huggingface.co/openbmb/MiniCPM-V) <br> [GitHub](https://github.com/OpenBMB/OmniLMM) <br>[Demo](http://120.92.209.146/)|
 
