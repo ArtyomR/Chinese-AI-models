@@ -16,6 +16,11 @@ List of Chinese AI models
 | Tiangong 2.0 MoE |06.02.24 |[Kunlun Wanwei](https://home.tiangong.cn/)   | Supports multi-modal applications such as graphic and text dialogues, and text and text graphics, and supports ultra-long context windows of up to 100K. *Probably some specific access is required for non China users.*|CN| [Homepage](https://home.tiangong.cn/)<br>[News](https://t.me/chinese_ai_news/1868)|
 | MiniCPM-V (i.e., OmniLMM-3B)| 01.02.24 | [OpenBMB](https://www.openbmb.cn/home) | It is an efficient version with promising performance for deployment. The model is built based on MiniCPM-2B and SigLip-400M, connected by a perceiver resampler. | CN EN | [HuggingFace](https://huggingface.co/openbmb/MiniCPM-V) <br> [GitHub](https://github.com/OpenBMB/OmniLMM) <br>[Demo](http://120.92.209.146/)|
 
+## Text-to-Image
+| Platform Name  | Release | Developer     | Description                      | Lang | Links |
+| :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
+| SDXL-Lightning | 22.02.24 | [BiteDance](https://www.bytedance.com/) | SDXL-Lightning is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps. | RU CN EN | [arXiv](https://arxiv.org/abs/2402.13929)<br>[Huggingface](https://huggingface.co/ByteDance/SDXL-Lightning)<br>[Demo](https://huggingface.co/spaces/AP123/SDXL-Lightning)<br>[News](https://t.me/chinese_ai_news/1970)|
+
 ## AI platforms
 | Platform Name  | Release | Developer     | Description                      | Lang | Links |
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
