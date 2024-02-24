@@ -21,6 +21,11 @@ List of Chinese AI models
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
 | Coze | 01.02.24 | [BiteDance](https://www.bytedance.com/) | Coze is a next-generation AI Bot development platform. Regardless of your programming experience, Coze enables you to effortlessly create various chatbots and deploy them across different social platforms and messaging apps like Discord, Telegram, LINE & Slack! | CN EN | [Coze.com](https://www.coze.com/)<br>[Coze.cn](https://www.coze.cn/)<br>[News](https://t.me/chinese_ai_news/1860)|
 
+## Voice Assistants
+| Voice Assistant | Release | Developer     | Description                      | Lang | Links |
+| :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
+| Celia / Xiaoyi / AI Voice | 2019 | [Huawei](https://consumer.huawei.com/en/) | Celia answers your questions and helps you get things done hands-free, so you can focus on the more important things in life. | CN EN RU? +4 | [Homepage](https://consumer.huawei.com/en/emui/celia/)<br>[Support](https://consumer.huawei.com/en/support/content/en-us15914950/)<br>[News](https://t.me/chinese_ai_news/1958)|
+
 ## Leaderboards
 | Leaderboard  | Release | Developer     | Description                      | Lang | Links |
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
