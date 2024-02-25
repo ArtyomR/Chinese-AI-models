@@ -19,7 +19,7 @@ List of Chinese AI models
 ## Text-to-Image
 | Platform Name  | Release | Developer     | Description                      | Lang | Links |
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
-| SDXL-Lightning | 22.02.24 | [BiteDance](https://www.bytedance.com/) | SDXL-Lightning is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps. | RU CN EN | [arXiv](https://arxiv.org/abs/2402.13929)<br>[Huggingface](https://huggingface.co/ByteDance/SDXL-Lightning)<br>[Demo](https://huggingface.co/spaces/AP123/SDXL-Lightning)<br>[News](https://t.me/chinese_ai_news/1970)|
+| SDXL-Lightning | 22.02.24 | [BiteDance](https://www.bytedance.com/) | SDXL-Lightning is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps. | RU CN EN | [arXiv](https://arxiv.org/abs/2402.13929)<br>[HuggingFace](https://huggingface.co/ByteDance/SDXL-Lightning)<br>[Demo](https://huggingface.co/spaces/AP123/SDXL-Lightning)<br>[News](https://t.me/chinese_ai_news/1970)|
 
 ## AI platforms
 | Platform Name  | Release | Developer     | Description                      | Lang | Links |
