@@ -10,16 +10,21 @@ List of Chinese AI models
 | MiniCPM-2B|01.02.24 | [OpenBMB](https://www.openbmb.cn/home)| An end-side LLM outperforms Llama2-13B | |[HuggingFace](https://huggingface.co/openbmb)<br> [GitHub](https://github.com/OpenBMB/MiniCPM)<br>[News](https://t.me/chinese_ai_news/1843)|
 
 ## Multimodal Models
-| LLM Name  | Release | Developer     | Description                      | Lang | Links |
+| Nodel Name  | Release | Developer     | Description                      | Lang | Links |
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
 | Qwen-VL-Max |06.02.24 |[Alibaba Cloud](https://eu.alibabacloud.com/en)  | This WebUI is based on Qwen-VL-Max, the upgraded version of Qwen-VL |CN| [Homepage](https://tongyi.aliyun.com/)<br>[HuggingFace](https://huggingface.co/spaces/Qwen/Qwen-VL-Max) <br> [GitHub](https://github.com/QwenLM/Qwen-VL#qwen-vl-plus)|
 | Tiangong 2.0 MoE |06.02.24 |[Kunlun Wanwei](https://home.tiangong.cn/)   | Supports multi-modal applications such as graphic and text dialogues, and text and text graphics, and supports ultra-long context windows of up to 100K. *Probably some specific access is required for non China users.*|CN| [Homepage](https://home.tiangong.cn/)<br>[News](https://t.me/chinese_ai_news/1868)|
 | MiniCPM-V (i.e., OmniLMM-3B)| 01.02.24 | [OpenBMB](https://www.openbmb.cn/home) | It is an efficient version with promising performance for deployment. The model is built based on MiniCPM-2B and SigLip-400M, connected by a perceiver resampler. | CN EN | [HuggingFace](https://huggingface.co/openbmb/MiniCPM-V) <br> [GitHub](https://github.com/OpenBMB/OmniLMM) <br>[Demo](http://120.92.209.146/)|
 
 ## Text-to-Image
-| Platform Name  | Release | Developer     | Description                      | Lang | Links |
+| Model Name  | Release | Developer     | Description                      | Lang | Links |
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
 | SDXL-Lightning | 22.02.24 | [BiteDance](https://www.bytedance.com/) | SDXL-Lightning is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps. | RU CN EN | [arXiv](https://arxiv.org/abs/2402.13929)<br>[HuggingFace](https://huggingface.co/ByteDance/SDXL-Lightning)<br>[Demo](https://huggingface.co/spaces/AP123/SDXL-Lightning)<br>[News](https://t.me/chinese_ai_news/1970)|
+
+## Audio2Video
+| Model Name  | Release | Developer     | Description                      | Lang | Links |
+| :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
+| EMO | 27.02.24 | [Alibaba](https://www.alibabacloud.com/solutions/ai/data-intelligence) | EMO, an expressive audio-driven portrait-video generation framework. Input a single reference image and the vocal audio, we can generate videos with any duration depending on the length of input video. | RU? CN EN | [arXiv](https://arxiv.org/pdf/2402.17485.pdf)<br>[GitHub](https://humanaigc.github.io/emote-portrait-alive/)<br>[News](https://t.me/chinese_ai_news/2040)|
 
 ## AI platforms
 | Platform Name  | Release | Developer     | Description                      | Lang | Links |
