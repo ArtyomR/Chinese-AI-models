@@ -19,12 +19,18 @@ List of Chinese AI models
 ## Text-to-Image
 | Model Name  | Release | Developer     | Description                      | Lang | Links |
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
+| PixWeaver | 30.04.24 | [Shengshu Technology](https://www.shengshu-ai.com/home) | Image generation. | CN | [HomePage](https://pw.shengshu-ai.com/)|
 | SDXL-Lightning | 22.02.24 | [BiteDance](https://www.bytedance.com/) | SDXL-Lightning is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps. | RU CN EN | [arXiv](https://arxiv.org/abs/2402.13929)<br>[HuggingFace](https://huggingface.co/ByteDance/SDXL-Lightning)<br>[Demo](https://huggingface.co/spaces/AP123/SDXL-Lightning)<br>[News](https://t.me/chinese_ai_news/1970)|
+
+## Text-to-Video
+| Model Name  | Release | Developer     | Description                      | Lang | Links |
+| :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
+| Vidu | 29.04.24 | [Shengshu Technology](https://www.shengshu-ai.com/home) | The firm has released several demo clips produced by Vidu, which can generate 1080p videos as long as 16 seconds | CN | [HomePage](https://www.shengshu-ai.com/home)<br>[News](https://t.me/chinese_ai_news/1970)|
 
 ## Audio2Video
 | Model Name  | Release | Developer     | Description                      | Lang | Links |
 | :-------- | :---- |:-------      | :-------------------------------- |:---- | :-------------- |
-| EMO | 27.02.24 | [Alibaba](https://www.alibabacloud.com/solutions/ai/data-intelligence) | EMO, an expressive audio-driven portrait-video generation framework. Input a single reference image and the vocal audio, we can generate videos with any duration depending on the length of input video. | RU? CN EN | [arXiv](https://arxiv.org/pdf/2402.17485.pdf)<br>[GitHub](https://humanaigc.github.io/emote-portrait-alive/)<br>[News](https://t.me/chinese_ai_news/2040)|
+| EMO | 27.02.24 | [Alibaba](https://www.alibabacloud.com/solutions/ai/data-intelligence) | EMO, an expressive audio-driven portrait-video generation framework. Input a single reference image and the vocal audio, we can generate videos with any duration depending on the length of input video. | RU? CN EN | [arXiv](https://arxiv.org/pdf/2402.17485.pdf)<br>[GitHub](https://humanaigc.github.io/emote-portrait-alive/)<br>[News](https://t.me/c/1964713155/2495)|
 
 ## AI platforms
 | Platform Name  | Release | Developer     | Description                      | Lang | Links |
